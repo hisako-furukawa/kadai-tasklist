@@ -19,7 +19,7 @@
         </tr>
         <tr>
         <th>更新日時</th>
-        <td><fmt:formatDate value="${tasklist.updated_at}" pattern="yyyy-MM-dd HH:mm:ss" /></p>></td>
+        <td><fmt:formatDate value="${tasklist.updated_at}" pattern="yyyy-MM-dd HH:mm:ss" /></p></td>
         </tr>
         </tboby>
         </table>
